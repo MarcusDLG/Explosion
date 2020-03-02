@@ -1,0 +1,17 @@
+/Users/marcusdelagarza/SDG-Projects/Explosion/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/marcusdelagarza/SDG-Projects/Explosion/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/marcusdelagarza/SDG-Projects/Explosion/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/marcusdelagarza/SDG-Projects/Explosion/bin/Debug/netcoreapp3.1/Explosion.deps.json
+/Users/marcusdelagarza/SDG-Projects/Explosion/bin/Debug/netcoreapp3.1/Explosion.runtimeconfig.json
+/Users/marcusdelagarza/SDG-Projects/Explosion/bin/Debug/netcoreapp3.1/Explosion.runtimeconfig.dev.json
+/Users/marcusdelagarza/SDG-Projects/Explosion/bin/Debug/netcoreapp3.1/Explosion.dll
+/Users/marcusdelagarza/SDG-Projects/Explosion/bin/Debug/netcoreapp3.1/Explosion.pdb
+/Users/marcusdelagarza/SDG-Projects/Explosion/obj/Debug/netcoreapp3.1/Explosion.csprojAssemblyReference.cache
+/Users/marcusdelagarza/SDG-Projects/Explosion/obj/Debug/netcoreapp3.1/Explosion.MvcApplicationPartsAssemblyInfo.cache
+/Users/marcusdelagarza/SDG-Projects/Explosion/obj/Debug/netcoreapp3.1/Explosion.AssemblyInfoInputs.cache
+/Users/marcusdelagarza/SDG-Projects/Explosion/obj/Debug/netcoreapp3.1/Explosion.AssemblyInfo.cs
+/Users/marcusdelagarza/SDG-Projects/Explosion/obj/Debug/netcoreapp3.1/Explosion.RazorTargetAssemblyInfo.cache
+/Users/marcusdelagarza/SDG-Projects/Explosion/obj/Debug/netcoreapp3.1/staticwebassets/Explosion.StaticWebAssets.Manifest.cache
+/Users/marcusdelagarza/SDG-Projects/Explosion/obj/Debug/netcoreapp3.1/staticwebassets/Explosion.StaticWebAssets.xml
+/Users/marcusdelagarza/SDG-Projects/Explosion/obj/Debug/netcoreapp3.1/Explosion.dll
+/Users/marcusdelagarza/SDG-Projects/Explosion/obj/Debug/netcoreapp3.1/Explosion.pdb
